@@ -1,3 +1,5 @@
+Kindly choose "master" branch to view code.
+
 Hi Everyone!
 
 Today we're going to create a new web application with JavaScript (Vanilla JavaScript: No Framework).
